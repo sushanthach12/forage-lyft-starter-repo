@@ -8,7 +8,7 @@ from engine.model.rorschach import Rorschach
 from engine.model.thovex import Thovex
 
 
-# Unit test for the System
+# Unit test for the System using the Test Driven Development
 
 class TestCalliope(unittest.TestCase):
     def test_battery_should_be_serviced(self):
